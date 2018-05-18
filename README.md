@@ -1,6 +1,7 @@
 # FaceRecognition_keras
 基于keras，CNN网络的人脸识别程序
 ## 目录结构说明：
+```
 |————————————————————
 |bin:   存放最终执行的文件
 |  |_____keras_face_recongnition.py: 采集摄像头图片帧，并使用CNN模预测，识别人脸是不是本人
@@ -19,3 +20,4 @@
 |haarcascade_frontalface_alt2.xml:   opencv中的人脸数据集之一
 |me_face.model.h5:   keras训练的本人人脸识别模型
 |————————————————————
+```
